@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'Bold';
+    src: url("./Larsseit-Bold.woff") format('truetype');
+}
+@font-face {
+    font-family: 'Regular';
+    src: url("./Larsseit.woff") format('truetype');
+}
